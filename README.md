@@ -8,6 +8,14 @@ This project is my solution in **C#** to the **Lists** practice found in section
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Sort the List and Print 3 Values**
+
+Given an input list of countries please sort the list and print the first 3 values in descending order.
+
+Note: Please use this value for the List initialization: new List(of String) from {"Germany", "Spain", "Japan", "Brazil", "India", "China"}.
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
