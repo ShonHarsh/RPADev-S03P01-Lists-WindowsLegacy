@@ -1,0 +1,6 @@
+04/03/2024 16:30:21 => [Debug] Debug started for file: Main
+04/03/2024 16:30:23 => [Info] RPADev-S03P01-Lists execution started
+04/03/2024 16:30:23 => [Debug] Zimbabwe
+04/03/2024 16:30:23 => [Debug] Zambia
+04/03/2024 16:30:23 => [Debug] Yemen
+04/03/2024 16:30:23 => [Info] RPADev-S03P01-Lists execution ended in: 00:00:00
