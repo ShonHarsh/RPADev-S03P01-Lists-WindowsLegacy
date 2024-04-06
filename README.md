@@ -1,21 +1,21 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![UiPath](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
 
 # S03P01 Lists
 
 This project is my solution in **Windows Legacy (Deprecated), C#** to the **Lists ** practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
 
-### GETTING STARTED
+### Getting Started
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output panel.
 
-### PRACTICE REQUIREMENTS
+### Practice Requirements
 
 ###### **Sort the List and Print 3 Values**
 Given an input list of countries please sort the list and print the first 3 values in descending order.
 
 **Note:** Please use this value for the List initialization: new List(of String) from {"Germany", "Spain", "Japan", "Brazil", "India", "China"}.
 
-### DETAILS
+### Details
 
 **Course:** UiPath - RPA Developer Foundation
 
@@ -27,7 +27,7 @@ Given an input list of countries please sort the list and print the first 3 valu
 
 **GitHub:** https://github.com/ShonHarsh/RPADev-S03P01-Lists-WindowsLegacy
 
-### SAMPLE OUTPUT
+### Sample Output
 
 ```
 07/16/2021 13:53:44 => [Debug] Execution started for project: RPADev-S03P01-Lists
@@ -38,26 +38,26 @@ Given an input list of countries please sort the list and print the first 3 valu
 07/16/2021 13:53:47 => [Info] RPADev-S03P01-Lists execution ended in: 00:00:01
 ```
 
-### ARCHITECTURE REQUIREMENTS
+### Architecture Requirements
 
 A standard UiPath, Studio to Orchestrator cloud setup is the base of operation.  It is easy to setup and free.
 1. An Orchestrator connection - Visit https://cloud.uipath.com/ and authenticate or sign up.
 2. [UiPath Studio](https://www.uipath.com/product/studio) is used to run the robot.  Note that Studio Web can be used directly in Orchestrator but I recommend installing the Studio IDE application.
 
-### GIT NOTES
+### Git Notes
 
 Clone the project to develop or change it.
 
 `git clone https://github.com/ShonHarsh/RPADev-S03P01-Lists-WindowsLegacy`
 
-### LINKS
+### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
 - [UiPath Studio](https://www.uipath.com/product/studio)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
 
-### RPA DEVELOPER FOUNDATION SECTIONS
+### RPA Developer Foundation Sections
 
 1. Get Started With RPA Development
 
