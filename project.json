@@ -4,9 +4,7 @@
   "description": "Practice01-Lists",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.2-preview]",
-    "UiPath.Mail.Activities": "[1.22.2]",
-    "UiPath.System.Activities": "[24.3.0]",
+    "UiPath.System.Activities": "[24.3.1]",
     "UiPath.UIAutomation.Activities": "[24.2.2-preview]"
   },
   "webServices": [],
